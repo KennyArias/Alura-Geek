@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+        "name": "Flash",
+        "price": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP643523-MLA49180554005_022022-O.webp",
+        "id": "1"
+    },
+    {
+        "name": "Darth Vader",
+        "price": "50",
+        "image": "https://http2.mlstatic.com/D_NQ_NP975969-MLA46467090682_062021-O.webp",
+        "id": "2"
+    },
+    {
+        "name": "Batman",
+        "price": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP640262-MCO47330060660_092021-O.webp",
+        "id": "3"
+    },
+    {
+        "name": "Flash",
+        "price": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP643523-MLA49180554005_022022-O.webp",
+        "id": "4"
+    },
+    {
+        "name": "Darth Vader",
+        "price": "50",
+        "image": "https://http2.mlstatic.com/D_NQ_NP975969-MLA46467090682_062021-O.webp",
+        "id": "5"
+    },
+    {
+        "name": "Batman",
+        "price": "35",
+        "image": "https://http2.mlstatic.com/D_NQ_NP640262-MCO47330060660_092021-O.webp",
+        "id": "6"
+    },
+    {
+        "name": "Flash",
+        "price": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP643523-MLA49180554005_022022-O.webp",
+        "id": "7"
+    },
+    {
+        "name": "Darth Vader",
+        "price": "50",
+        "image": "https://http2.mlstatic.com/D_NQ_NP975969-MLA46467090682_062021-O.webp",
+        "id": "8"
+    },
+    {
+        "name": "Batman",
+        "price": "35",
+        "image": "https://http2.mlstatic.com/D_NQ_NP640262-MCO47330060660_092021-O.webp",
+        "id": "9"
+    },
+    {
+        "id": "a30b",
+        "name": "Sailor Chibi-Moon",
+        "price": "10",
+        "image": "https://m.media-amazon.com/images/I/61TEfnMMRzL._AC_SX569_.jpg"
+    },
+    {
+        "id": "e96b",
+        "name": "Sailor Moon",
+        "price": "20",
+        "image": "https://m.media-amazon.com/images/I/61yB3FCyFbL._AC_SY879_.jpg"
+    },
+    {
+        "id": "8cd2",
+        "name": "Sailor Venus",
+        "price": "35",
+        "image": "https://m.media-amazon.com/images/I/61PMRjVbLsL._AC_SY879_.jpg"
+    }
+  ]
+}
